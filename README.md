@@ -7,6 +7,17 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Capturas de pantalla
+
+### 1. Consulta de empresas con tareas
+![GET /companies](screenshots/01_get_companies.png)
+
+### 2. Crear tarea válida
+![POST /tasks](screenshots/02_post_create_task_valid.png)
+
+### 3. Error al crear más de 5 tareas pendientes
+![Límite de tareas](screenshots/03_post_create_task_limit_error.png)
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
