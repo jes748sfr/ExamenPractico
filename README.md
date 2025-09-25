@@ -10,13 +10,13 @@
 ## Capturas de pantalla
 
 ### 1. Consulta de empresas con tareas
-![GET /companies](screenshots/01_get_companies.png)
+![GET /companies](capturas_de_pantalla/01_get_companies.png)
 
-### 2. Crear tarea válida
-![POST /tasks](screenshots/02_post_create_task_valid.png)
+### 2. Error al crear más de 5 tareas pendientes
+![Límite de tareas](capturas_de_pantalla/02_post_task_create_limit_error.png)
 
-### 3. Error al crear más de 5 tareas pendientes
-![Límite de tareas](screenshots/03_post_create_task_limit_error.png)
+### 3. Crear tarea válida
+![POST /tasks](capturas_de_pantalla/03_post_task_create_valid.png)
 
 ## About Laravel
 
